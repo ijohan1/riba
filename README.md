@@ -1,4 +1,4 @@
-# Riba.py: a CLI tool for .csv file statistics automation
+# Riba: a CLI tool for .csv file statistics automation
 
 # description: 
 an app designed to automate data analysis of files with .csv format
